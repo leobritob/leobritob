@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Conexia Educação](https://conexia.com.br)
 
-- 💬 Ask me about **Node.js, React, React Native, JavaScript**
+- 💬 Ask me about **Node.js, React, React Native, JavaScript and TypeScript**
 
 - 📫 How to reach me **leonardobritobittencourt@gmail.com**
 
