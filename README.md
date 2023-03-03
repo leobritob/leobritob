@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Leonardo Brito Bittencourt</h1>
 <h3 align="center">I'm a JavaScript FullStack Developer from Ribeirão Preto - Brazil</h3>
 
-- 🔭 I’m currently working on [PayPal](https://paypal.com)
+- 🔭 I’m currently working on [X-Team](https://x-team.com)
 
 - 💬 Ask me about **Node.js, React, React Native, JavaScript and TypeScript**
 
