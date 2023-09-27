@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Leonardo Brito Bittencourt</h1>
-<h3 align="center">I'm a JavaScript FullStack Developer from Ribeirão Preto - Brazil</h3>
+<h1 align="center">Hi there 👋, I'm Leo!</h1>
+<h3 align="center">I'm a Senior Software Engineer from Ribeirão Preto - Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on [X-Team](https://x-team.com)
+- 🔭 I’m currently working on [Atria Institute](https://atria.org)
 
 - 💬 Ask me about **Node.js, React, React Native, JavaScript and TypeScript**
 
